@@ -1,8 +1,8 @@
 <img src="assets/banner.png" alt="Banner" width="100%"/>
 
-# 👋 Hi! My name is Jorge Duart  
-Game Programmer and Software Engineer with a deep passion for game development.
-
+# <div align="center"> 👋 Hi! My name is Jorge Duart  </div>
+### <div align="center"> Game Programmer and Software Engineer with a deep passion for game development.</div>
+---
 # 💫 About Me:
 Specialising in UE5 and C++, I have also taken part in some projects with Unity.
 I'm interested in and have been involved in:
@@ -12,6 +12,7 @@ I'm interested in and have been involved in:
 
 I am always looking to learn more and improve myself, as well as writing clean, legible, scalable, and secure code.
 
+---
 # 💻 Tech Stack:
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 
@@ -21,7 +22,7 @@ I am always looking to learn more and improve myself, as well as writing clean, 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
-
-## 🌐 Socials:
+---
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-duart-marzo) 
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgedumar01@gmail.com) 
