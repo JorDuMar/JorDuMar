@@ -4,13 +4,13 @@
 ### <div align="center"> Game Programmer and Software Engineer with a deep passion for game development.</div>
 ---
 # 💫 About Me:
-Specialising in UE5 and C++, I have also taken part in some projects with Unity.
-I'm interested in and have been involved in:
+I specialise in UE5 and C++. However, I have also worked on some collaborative personal Unity projects.
+I am interested and have been involved in:
 - Gameplay programming (combat, environment interaction, etc.)
 - AI programming (behaviour trees, token system, etc.) 
 - Other systems (persistent saving, replayability, etc.)
 
-I am always looking to learn more and improve myself, as well as writing clean, legible, scalable, and secure code.
+I am always looking to learn and improve myself, as well as writing clean, scalable and secure code.
 
 ---
 # 💻 Tech Stack:
