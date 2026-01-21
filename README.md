@@ -4,7 +4,13 @@
 ### <div align="center"> Game Programmer and Software Engineer with a deep passion for game development.</div>
 ---
 # 💫 About Me:
-I specialise in UE5 and C++. However, I have also worked on some collaborative personal Unity projects.
+
+Hi! I'm Jorge Duart, a Game Programmer and Computer Engineer. I’ve always been passionate about video games and enjoy keeping up with industry trends. I consider myself a team player and an adaptable person with strong communication skills.
+
+During my Computer Engineering degree, I acquired a solid foundation in programming, data structures, algorithms, and software development. In the final years of my studies, I developed small collaborative projects using Unity, which strengthened my interest in game development and helped me improve my practical and technical skills.
+
+After finishing my degree, I decided to pursue a Master’s in Video Game Programming, where I specialized in C++ and Unreal Engine 5. We developed a team project, [Dorothys Job](https://store.steampowered.com/app/3926730/Dorothys_Job/), that simulated a real work environment and involved collaboration with students from other master’s programmes.
+
 I am interested and have been involved in:
 - Gameplay programming (combat, environment interaction, etc.)
 - AI programming (behaviour trees, token system, etc.) 
